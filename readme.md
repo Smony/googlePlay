@@ -10,7 +10,7 @@ Google не предоставляет официальный API, но есть
 Добавьте пожалуйста в файл `.env`:
 ```
 MARKET_CODE=ALL
-MARKET_TOKEN=0159f0254b4a92c7bba1ed5799c7dd86399db0d9
+MARKET_TOKEN=1ed63299f82f057c3d5d5fb5427c49acdd6f0642
 MARKET_PASSWORD=X
 MARKET_STORE=android
 ```
